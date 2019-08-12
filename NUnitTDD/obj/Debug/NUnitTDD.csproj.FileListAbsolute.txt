@@ -1,0 +1,6 @@
+C:\Dev\NUnitTDD\NUnitTDD\obj\Debug\NUnitTDD.csprojAssemblyReference.cache
+C:\Dev\NUnitTDD\NUnitTDD\obj\Debug\NUnitTDD.csproj.CoreCompileInputs.cache
+C:\Dev\NUnitTDD\NUnitTDD\bin\Debug\NUnitTDD.exe
+C:\Dev\NUnitTDD\NUnitTDD\bin\Debug\NUnitTDD.pdb
+C:\Dev\NUnitTDD\NUnitTDD\obj\Debug\NUnitTDD.exe
+C:\Dev\NUnitTDD\NUnitTDD\obj\Debug\NUnitTDD.pdb

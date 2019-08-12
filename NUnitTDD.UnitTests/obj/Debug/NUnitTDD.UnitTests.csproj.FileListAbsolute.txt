@@ -1,0 +1,11 @@
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\obj\Debug\NUnitTDD.UnitTests.csprojAssemblyReference.cache
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\obj\Debug\NUnitTDD.UnitTests.csproj.CoreCompileInputs.cache
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\bin\Debug\NUnitTDD.UnitTests.dll
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\bin\Debug\NUnitTDD.UnitTests.pdb
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\bin\Debug\nunit.framework.dll
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\bin\Debug\NUnitTDD.exe
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\bin\Debug\NUnitTDD.pdb
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\bin\Debug\nunit.framework.xml
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\obj\Debug\NUnitTDD.UnitTests.csproj.CopyComplete
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\obj\Debug\NUnitTDD.UnitTests.dll
+C:\Dev\NUnitTDD\NUnitTDD.UnitTests\obj\Debug\NUnitTDD.UnitTests.pdb
